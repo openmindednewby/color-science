@@ -1,6 +1,6 @@
 {
   "name": "@dloizides/color-science",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Pure colour maths: OKLab and OKLCH conversion, deltaE, nearest-in-palette, colour-vision-deficiency simulation and 2, 3, 4-colour harmonies that stay distinct under CVD. No DOM, no React, no dependencies.",
   "keywords": [
     "color",
